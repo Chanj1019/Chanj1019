@@ -10,7 +10,7 @@
 - Tools: Git, Docker
 
 ## Major Projects
-- [Project 1](link): Description of the project
+- [Project 1](https://github.com/Chanj1019/Hip): Description of the project
 - [Project 2](link): Description of the project
 
 ## Contact
