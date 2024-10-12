@@ -14,8 +14,7 @@
 - [Project 2](link): Description of the project
 
 ## Contact
-- [LinkedIn](link)
-- [Twitter](link)
+- dlfma1019@daum.net
 - Email: ckswls1019@naver.com
 
 Thank you! 🚀
