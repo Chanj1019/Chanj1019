@@ -10,8 +10,8 @@
 - Tools: Git, Docker
 
 ## Major Projects
-- [Project 1](https://github.com/Chanj1019/Hip): Description of the project
-- [Project 2](link): Description of the project
+- [Hip](https://github.com/Chanj1019/Hip): Description of the project
+- [Picel](link): Description of the project
 
 ## Contact
 - dlfma1019@daum.net
