@@ -10,7 +10,9 @@
 - Tools: Git, Docker
 
 ## Major Projects
-- [Hip](https://github.com/Chanj1019/Hip): Description of the project
+- [Hip](https://github.com/Chanj1019/Hip): This platform is for Hongik software education and aims to improve the educational environment
+through learning materials, topic management, exhibition functions, and community communication.
+
 - [Picel](link): Description of the project
 
 ## Contact
