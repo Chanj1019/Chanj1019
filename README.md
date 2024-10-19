@@ -1,13 +1,11 @@
 # Hello! I'm ChanJin.
-
-🧑‍💻 Currently working as a .  
-🌍 Areas of Interest: 
+🌍 Areas of Interest: Back-end developer
 
 ## Tech Stack
 - Languages: TypeScript, JavaScript, Java
 - Frameworks: Nestjs
 - Databases: MySQL
-- Tools: Git, Docker
+- Tools: Git
 
 ## Major Projects
 - [Hip](https://github.com/Chanj1019/Hip): This platform is for Hongik software education and aims to improve the educational environment
