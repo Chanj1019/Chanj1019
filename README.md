@@ -14,7 +14,6 @@ through learning materials, topic management, exhibition functions, and communit
 - [Picel](link): Description of the project
 
 ## Contact
-- dlfma1019@daum.net
 - Email: ckswls1019@naver.com
 
 Thank you! 🚀
