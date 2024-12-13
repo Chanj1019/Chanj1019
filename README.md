@@ -13,6 +13,9 @@ through learning materials, topic management, exhibition functions, and communit
 
 - [Picel](link): Description of the project
 
+in progress
+-[auto]
+-outsourcing
 ## Contact
 - Email: ckswls1019@naver.com
 
